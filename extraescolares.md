@@ -1,6 +1,14 @@
 <!-- TITLE: Extraescolares -->
-<!-- sublTITLE: El Departamento de Extraescolares programa actividades complementarias que ... -->
+<!-- sublTITLE: Este Departamento programa actividades complementarias -->
 
 # Actividades programadas diciembre 2017:
-## cazar gamusinos a saco
-## circunnavegar marte un poco
+## Cazar gamusinos (a saco)
+## Circunnavegar Marte. Un poco.
+
+| |Actividades programadas |
+|:-:|:-|
+|diciembre 2017 | Cazar gamusinos (a saco)|
+|diciembre 2017 | Circunnavegar Marte. Un poco.|
+
+
+
