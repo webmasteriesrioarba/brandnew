@@ -1,5 +1,5 @@
 <!-- TITLE: Profesores-->
-<!-- SUBTITLE: (constituyen su Claustro docente) -->
+<!-- SUBTITLE: Claustro docente del IES Rio Arba -->
 
 |dpto de adscripción                  |profesor							 |contacto                 |
 |:------------------------------------|:---------------------|------------------------:|
