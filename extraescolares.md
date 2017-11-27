@@ -1,5 +1,5 @@
 <!-- TITLE: Extraescolares -->
-<!-- sublTITLE: Este Departamento programa actividades complementarias -->
+<!-- subTITLE: Este Departamento programa actividades complementarias -->
 
 # Actividades programadas diciembre 2017:
 ## Cazar gamusinos (a saco)
