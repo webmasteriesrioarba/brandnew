@@ -5,5 +5,5 @@
 suben y bajan por la pared
 La pared estaba rota
 y se cayeron de cocorota*
-# JesusMariayJose que estrés!
+# JesusMariayJose que estrés !
 # Nos vamos todos a Lourdes !!
