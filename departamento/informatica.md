@@ -1,5 +1,4 @@
 <!-- TITLE: Informatica -->
-
 ![Trojanwin 32 300 X 200](/uploads/trojanwin-32-300-x-200.jpg "Trojanwin 32 300 X 200")
 Estamos (siempre) trabajando en ello ...
 
