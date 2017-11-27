@@ -19,7 +19,6 @@
 
 # Historia de las Matemáticas
 Hay matematicos para quitarse el sombrero
-
-![Hilbert](/uploads/hilbert.jpg ){.align-center}
+![Hilbert](/uploads/hilbert-2.jpg ){.align-center}
 
 David Hilbert : https://es.wikipedia.org/wiki/David_Hilbert
