@@ -1,6 +1,5 @@
 <!-- TITLE: Llegar al centro; contactar-->
 
-# Ubicación
 Instituto de Enseñanza Secundaria Río Arba
 
 <iframe
@@ -12,11 +11,10 @@ Instituto de Enseñanza Secundaria Río Arba
 
 Avenida  del Pilar S/N
 50660 Tauste (Zaragoza)
-# Teléfonos
-976 85 40 20
-# Correos electrónicos
+**TELEFONO 976 85 40 20**
+
 |     contacto       |                          correo|
 |:------------------:|-------------------------------:|
-|Centro (corporativo)|    iestauste@educa.aragon.es   |
+|Centro |    iestauste@educa.aragon.es   |
 |Dirección           |    direcion@iesrioarba.es      |
 |Secretaría          |    secretaria@iesrioarba.es    |
