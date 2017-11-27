@@ -21,4 +21,4 @@
 Hay matematicos para quitarse el sombrero
 ![Hilbert](/uploads/hilbert-2.jpg ){.align-center}
 
-David Hilbert : https://es.wikipedia.org/wiki/David_Hilbert
+David Hilbert : https://es.wikipedia.org/wiki/David_Hilbert {.align-center}
