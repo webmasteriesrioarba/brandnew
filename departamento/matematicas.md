@@ -6,7 +6,7 @@
 ## La de Banach
 ## La de Boole
 |Álgebras raras|
-|.|
+|:-|
 | Banach|
 | Boole|
 
