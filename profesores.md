@@ -10,12 +10,12 @@ h<!-- TITLE: Profesores-->
 |[Informática](/departamento/informatica)                       |	Alberto Oñate	|aonate@iesrioarba.es	|
 |[Tecnología](/departamento/tecnologia)                 |Belén Clemente	       |bclemente@iesrioarba.es|
 |[Educación Físca](/departamento/educacion-fisica)                       |	Cristina Cuenca	|ccuenca@iesrioarba.es	|
-|[](/departamento/)                       |	MªCarmen Hernández	|chernandez@iesrioarba.es	|
+|[Lengua Cast. y Lit.](/departamento/)                       |	MªCarmen Hernández	|chernandez@iesrioarba.es	|
 |[ORIENTACIÓN](/orientacion)                       |	Columna Alegre|	columna@iesrioarba.es	
 |[ORIENTACIÓN](/orientacion)                       |	David Bazco	|dbazco@iesrioarba.es	
-|[](/departamento/)                       |	Eva Arce	|earce@iesrioarba.es	|
+|[Lengua Cast. y Lit.](/departamento/)                       |	Eva Arce	|earce@iesrioarba.es	|
 |[Informática](/departamento/informatica)                      |	Edgar Bernaldez	|ebernaldez@iesrioarba.es	|
-|[](/departamento/)                       |	Enrique Galé|	egale@iesrioarba.es	|
+|[Lengua Cast. y Lit.](/departamento/)                       |	Enrique Galé|	egale@iesrioarba.es	|
 |[Educación Físca](/departamento/educacion-fisica)     |Eduardo Muñoz         |emunoz@iesrioarba.es|
 |[Lenguas Clásicas](/departamento/clasicas)             |Emilio Rando	         |erando@iesrioarba.es|
 |[Matemáticas](/departamento/matematicas)               |Eduardo Sancho	       |esancho@iesrioarba.es|
@@ -34,7 +34,7 @@ h<!-- TITLE: Profesores-->
 |[Ed. Plástica y Visual](/departamento/plastica)        |Lorenzo Lledó	       |lorenzolledo@iesrioarba.es|
 |[Inglés](/departamento/ingles)                       |	Laura Sallén	|lsallen@iesrioarba.es	|
 |[Biología y Geología](/departamento/biologia-geologia)                       |	Lorena Trigo	|ltrigo@iesrioarba.es	|
-|[](/departamento/)                       |	Miriam Aguado	|maguado@iesrioarba.es	|
+|[Lengua Cast. y Lit.](/departamento/)                       |	Miriam Aguado	|maguado@iesrioarba.es	|
 |[Biología y Geología](/departamento/biologia-geologia)                       |	Miguel Ángel Gutiérrez	|magutierrez@iesrioarba.es	|
 |[ORIENTACIÓN](/orientacion)                       |	Mercedes Alcázar	|malcazar@iesrioarba.es	|
 |[Física y Química](/departamento/fisica-quimica)                       |	Marta Angoy	|mangoy@iesrioarba.es	|
@@ -50,7 +50,7 @@ h<!-- TITLE: Profesores-->
 |[Matemáticas](/departamento/matematicas) |		Paco Zaldivar	|pzaldivar@iesrioarba.es	|
 |[Matemáticas](/departamento/matematicas)                       |	Rubén Borra	|rborra@iesrioarba.es	|
 |[Biología y Geología](/departamento/biologia-geologia) |		Raquel Campos	|rcampos@iesrioarba.es	|
-|[Lengua y Literatura](/departamento/lengua-literatura) |Reyes Malandía	       |rmalandia@iesrioarba.es|
+|[Lengua Cast. y Lit.](/departamento/lengua-literatura) |Reyes Malandía	       |rmalandia@iesrioarba.es|
 |[Matemáticas](/departamento/matematicas) |		Roberto Mateo	|rmateo@iesrioarba.es	|
 |[Economía](/departamento/economia)                     |Rita Molina	         |rmolina@iesrioarba.es|
 |[Biología y Geología](/departamento/biologia-geologia) |Rubén Peña	           |rpena@iesrioarba.es  |
@@ -58,6 +58,6 @@ h<!-- TITLE: Profesores-->
 |[](/departamento/) |		Sergio Callejas	|scallejas@iesrioarba.es	|
 |[Economia](/departamento/economia)                       |	Silvia García	|sgarcia@iesrioarba.es	|
 |[ORIENTACIÓN](/orientacion)                       |	Sonia González|	sgonzalez@iesrioarba.es	|
-|[](/departamento/)                       |	Sofía Lora	|slora@iesrioarba.es	|
+|[Lengua Cast. y Lit.](/departamento/)                       |	Sofía Lora	|slora@iesrioarba.es	|
 |[Física y Química](/departamento/fisica-quimica)                       |	Teresa García|	tgarcia@iesrioarba.es	|
 |[Francés](/departamento/frances)                       |Zoraida Portero	     |zportero@iesrioarba.es|
