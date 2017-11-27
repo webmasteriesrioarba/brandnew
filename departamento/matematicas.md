@@ -13,7 +13,7 @@
 
 # Ecuaciones hermosas:
 <p>
-  When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+  Cuando \(a \ne 0\), hay entonces dos soluciones para \(ax^2 + bx + c = 0\) y estas son:
   $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 </p>
 
