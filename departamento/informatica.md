@@ -9,4 +9,4 @@ Estamos (siempre) trabajando en ello ...
 |Edgar Bernaldez |ebernaldez@iesrioarba.es	|-|
 |José Muñoz      |jmunoz@iesrioarba.es	    |-|
 |Marta Martínez	 |mmartinez@iesrioarba.es	| 2ºCFGS |
-|Ramón Sancho    |rsancho@iesrioarba.es     |-|
+|[Ramón Sancho](/departamento/informatica/rsancho)    |rsancho@iesrioarba.es     |-|
