@@ -1,4 +1,4 @@
-<<!-- TITLE: Departamentos -->
+<!-- TITLE: Departamentos -->
 <!-- SUBTITLE: La Didáctica y los profesores se agrupan en Departamentos -->
 |departamento                                               ||jefatura							 | |
 |----------------------------------------------------------|--:|:---------------------|------------------------:|
