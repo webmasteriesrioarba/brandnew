@@ -10,7 +10,6 @@ Estamos (siempre) trabajando en ello ...
 |[José Muñoz](/departamento/informatica/jmunoz)          |jmunoz@iesrioarba.es	    | - |
 |[Marta Martínez](/departamento/informatica/mmartinez)	 |mmartinez@iesrioarba.es	  | 2ºCFGS |
 |[Ramón Sancho](/departamento/informatica/rsancho)       |rsancho@iesrioarba.es     | - |
-||||
 |[Lorenzo Lledó](/departamento/plastica/lorenzolledo)                  |lorenzolledo@iesrioarba.es  ||
 |[Ángela Bernal](/departamento/matematicas/abernal)                 |abernal@iesrioarba.es      ||
 |[Aranzazu Cortes](/departamento/fisica-quimica/acortes)            |acortes@iesrioarba.es      ||
@@ -26,12 +25,14 @@ Estamos (siempre) trabajando en ello ...
 |[Emilio Rando](/departamento/clasicas/erando)                      |erando@iesrioarba.es       ||
 |[Eduardo Sancho](/departamento/matematicas/esancho)                   |esancho@iesrioarba.es       ||
 |[Francisco José Elipe](/departamento/geografia-e-historia/fjelipe)    |fjelipe@iesrioarba.es       ||
-
 |[Jorge Alvarez](/departamento/biologia-geologia/jalvarez)             |jalvarez@iesrioarba.es      ||
 |[Javier Fernández](/departamento/fisica-quimica/jfernandez)           |jfernandez@iesrioarba.es    ||
+||||
 |[Javier García](/departamento/)                                       |jgarcia@iesrioarba.es       ||
+||||
 |[Judith Ramon](/departamento/ingles/jramon)                           |jramon@iesrioarba.es        ||  
-|[Javier Ruiz](/departamento/?)                                        |jruiz@iesrioarba.es         ||  
+||||
+|[Javier Ruiz](/departamento/)                                        |jruiz@iesrioarba.es         ||  
 |[Luisa Bea](/orientacion/lbea)                                        |lbea@iesrioarba.es          ||
 |[Leticia Cester](/departamento/ingles/lcester)                        |lcester@iesrioarba.es       ||
 |[Leticia Garcia](/departamento/ingles/leticiagarcia)                  |leticiagarcia@iesrioarba.es ||
@@ -59,7 +60,9 @@ Estamos (siempre) trabajando en ello ...
 |[Roberto Mateo](/departamento/matematicas/rmateo)                    |rmateo@iesrioarba.es     ||
 |[Rita Molina](/departamento/economia/rmolina)                        |rmolina@iesrioarba.es    ||
 |[Rubén Peña](/departamento/biologia-geologia/rpena)                  |rpena@iesrioarba.es      ||
-|[Sergio Callejas](/departamento/?/scallejas)                         |scallejas@iesrioarba.es  ||
+||||
+|[Sergio Callejas](/departamento/)                         |scallejas@iesrioarba.es  ||
+||||
 |[Silvia García](/departamento/economia/sgarcia)                      |sgarcia@iesrioarba.es    ||
 |[Sonia González](/orientacion/sgonzalez)                             |sgonzalez@iesrioarba.es  ||
 |[Sofía Lora](/departamento/lengua-literatura/slora)                  |slora@iesrioarba.es      ||
