@@ -20,4 +20,5 @@
 |[<label style="color: #b5650a">Área Padres</label>](/padres); [<label style="color: #b5650a">AMPA</label>](/ampa)|
 |[Área Alumnos](/alumnos)|
 |[Profesores](/profesores)|
+|[Extraescolares](/extraescolares)|
 |[Descargas](/descargas)
