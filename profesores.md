@@ -25,7 +25,7 @@
 |[](/departamento/)                       |	Javier García	|jgarcia@iesrioarba.es	|
 |[Informática](/departamento/informatica)                       |	José Muñoz|	jmunoz@iesrioarba.es	|
 |[Inglés](/departamento/ingles)                       |	Judith Ramon|	jramon@iesrioarba.es|	
-|[](/departamento/)                       |	Javier Ruiz	|jruiz@iesrioarba.es|	
+|[Tecnología](/departamento/tecnologia)                       |	Javier Ruiz	|jruiz@iesrioarba.es|	
 |[ORIENTACIÓN](/orientacion)                       |	Luisa Bea	|lbea@iesrioarba.es	|
 |[Inglés](/departamento/ingles)                       |	Leticia Cester	|lcester@iesrioarba.es	|
 |[Inglés](/departamento/ingles)                         |Leticia Garcia	       |leticiagarcia@iesrioarba.es|
