@@ -22,7 +22,7 @@
 |[Geografía e Historia](/departamento/geografia-e-historia)                       |	Francisco José Elipe|	fjelipe@iesrioarba.es	|
 |[Biología y Geología](/departamento/biologia-geologia)                       |	Jorge Alvarez	|jalvarez@iesrioarba.es	|
 |[Física y Química](/departamento/fisica-quimica)                       |	Javier Fernández	|jfernandez@iesrioarba.es	|
-|[](/departamento/)                       |	Javier García	|jgarcia@iesrioarba.es	|
+|[Ed. Plástica y Visual](/departamento/plastica)                       |	Javier García	|jgarcia@iesrioarba.es	|
 |[Informática](/departamento/informatica)                       |	José Muñoz|	jmunoz@iesrioarba.es	|
 |[Inglés](/departamento/ingles)                       |	Judith Ramon|	jramon@iesrioarba.es|	
 |[Tecnología](/departamento/tecnologia)                       |	Javier Ruiz	|jruiz@iesrioarba.es|	
