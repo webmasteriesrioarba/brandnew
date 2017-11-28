@@ -15,17 +15,18 @@ Estamos (siempre) trabajando en ello ...
 |[Ángela Bernal](/departamento/matematicas/abernal)                 |abernal@iesrioarba.es      ||
 |[Aranzazu Cortes](/departamento/fisica-quimica/acortes)            |acortes@iesrioarba.es      ||
 |[Ana Esther Gil Dolz](/departamento/geografia-e-historia/aegil)    |aegil@iesrioarba.es        ||  
-
 |[Belén Clemente](/departamento/tecnologia/blcemente)               |bclemente@iesrioarba.es    ||
 |[Cristina Cuenca](/departamento/educacion-fisica/ccuenca)          |ccuenca@iesrioarba.es      ||
 |[Mª Carmen Hernández](/departamento/lengua-literatura/chernandez)  |chernandez@iesrioarba.es   ||
 |[Columna Alegre](/orientacion/columna)                             |columna@iesrioarba.es      ||
 |[David Bazco](/orientacion/dbazco)                                 |dbazco@iesrioarba.es       ||
+
 |[Eva Arce](/departamento/lengua-literatura/earce)                  |earce@iesrioarba.es        ||
 |[Enrique Galé](/departamento/lengua-literatura/egale)              |egale@iesrioarba.es        ||
 |[Eduardo Muñoz](/departamento/educacion-fisica/emunoz)             |emunoz@iesrioarba.es       ||
 |[Emilio Rando](/departamento/clasicas/erando)                      |erando@iesrioarba.es       ||
 |[Eduardo Sancho](/departamento/matematicas/esancho)                   |esancho@iesrioarba.es       ||
+
 |[Francisco José Elipe](/departamento/geografia-e-historia/fjelipe)    |fjelipe@iesrioarba.es       ||
 |[Jorge Alvarez](/departamento/biologia-geologia/jalvarez)             |jalvarez@iesrioarba.es      ||
 |[Javier Fernández](/departamento/fisica-quimica/jfernandez)           |jfernandez@iesrioarba.es    ||
