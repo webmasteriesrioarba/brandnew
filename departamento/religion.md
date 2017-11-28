@@ -1,4 +1,4 @@
-<!-- TITLE: Religion -->
+<!-- TITLE: Religión -->
 <!-- SUBTITLE: (del lat. religare) -->
 
 *Los artículos de la Fe
