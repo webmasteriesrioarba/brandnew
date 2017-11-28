@@ -14,15 +14,10 @@ Estamos (siempre) trabajando en ello ...
 |profesor                                              |                         |tutor del grupo|
 |:------------------------------------------------------|-------------------------:|:-:|
 |[Lorenzo Lledó](/departamento/plastica/lorenzolledo)                  |lorenzolledo@iesrioarba.es  ||
-
-
-|dpto de adscripción                  |profesor               |contacto                         |
-
-| profesor                            | correo                                                | tutor del grupo|
-|:------------------------------------|:------------------------------------------------------:|:-:|
 |[Ángela Bernal](/departamento/matematicas/abernal)                 |abernal@iesrioarba.es      ||
 |[Aranzazu Cortes](/departamento/fisica-quimica/acortes)            |acortes@iesrioarba.es      ||
 |[Ana Esther Gil Dolz](/departamento/geografia-e-historia/aegil)    |aegil@iesrioarba.es        ||  
+
 |[Belén Clemente](/departamento/tecnologia/blcemente)               |bclemente@iesrioarba.es    ||
 |[Cristina Cuenca](/departamento/educacion-fisica/ccuenca)          |ccuenca@iesrioarba.es      ||
 |[Mª Carmen Hernández](/departamento/lengua-literatura/chernandez)  |chernandez@iesrioarba.es   ||
