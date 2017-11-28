@@ -38,7 +38,6 @@
 |[Biología y Geología](/departamento/biologia-geologia)      |[Miguel Ángel Gutiérrez](/departamento/biologia-geologia/magutierrez)  |magutierrez@iesrioarba.es  |
 |[ORIENTACIÓN](/orientacion)                                 |[Mercedes Alcázar](/orientacion/malcazar)    |malcazar@iesrioarba.es |
 |[Física y Química](/departamento/fisica-quimica)            |[Marta Angoy](/departamento/fisica-quimica/mangoy) |mangoy@iesrioarba.es   |
-|[ORIENTACIÓN](/orientacion)                                 |[Marta Angoy](/orientacion/mangoy) |mangoy@iesrioarba.es   |
 |[Geografía e Historia](/departamento/geografia-e-historia)  |[Mª Isabel Castelreanas](/departamento/geografia-e-historia/micastelreanas) |micastelreanas@iesrioarba.es|
 |[ORIENTACIÓN](/orientacion)                                 |[Mª Jose Barrecheguren](/orientacion/mjbarrecheguren)    |mjbarrecheguren@iesrioarba.es  |
 |[Biología y Geología](/departamento/biologia-geologia)      |[Mª Jesús Melero](/departamento/biologia-geologia/mjmelero)  |mjmelero@iesrioarba.es |
