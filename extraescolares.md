@@ -1,5 +1,9 @@
 <!-- TITLE: Extraescolares -->
 <!-- subTITLE: Este Departamento programa actividades complementarias -->
+| profesor                                               |                          |contacto|
+|:-------------------------------------------------------|-------------------------:|:-:|
+|[Eva Arce](/departamento/lengua-literatura/earce)                  |earce@iesrioarba.es        ||
+
 
 # Actividades programadas diciembre 2017:
 ## Cazar gamusinos (a saco)
