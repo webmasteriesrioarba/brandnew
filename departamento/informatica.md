@@ -10,9 +10,7 @@ Estamos (siempre) trabajando en ello ...
 |[José Muñoz](/departamento/informatica/jmunoz)          |jmunoz@iesrioarba.es	    | - |
 |[Marta Martínez](/departamento/informatica/mmartinez)	 |mmartinez@iesrioarba.es	  | 2ºCFGS |
 |[Ramón Sancho](/departamento/informatica/rsancho)       |rsancho@iesrioarba.es     | - |
-
-|profesor                                              |                         |tutor del grupo|
-|:------------------------------------------------------|-------------------------:|:-:|
+||||
 |[Lorenzo Lledó](/departamento/plastica/lorenzolledo)                  |lorenzolledo@iesrioarba.es  ||
 |[Ángela Bernal](/departamento/matematicas/abernal)                 |abernal@iesrioarba.es      ||
 |[Aranzazu Cortes](/departamento/fisica-quimica/acortes)            |acortes@iesrioarba.es      ||
