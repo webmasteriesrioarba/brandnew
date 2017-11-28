@@ -1,4 +1,4 @@
 <!-- TITLE: Piano -->
-<!-- SUBTITLE: seccion del [dpto de musica](/departamento/musica) -->
+Seccion del [dpto de musica](/departamento/musica)
 
 # Header
