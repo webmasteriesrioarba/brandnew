@@ -1,4 +1,4 @@
-<!-- TITLE: Gª e Historia -->
+<!-- TITLE: Geografía e Historia -->
 
 | profesor                                               |                          |tutor del grupo|
 |:-------------------------------------------------------|-------------------------:|:-:|
