@@ -54,7 +54,7 @@
 |[Economía](/departamento/economia)                          |[Rita Molina](/departamento/economia/rmolina)        |rmolina@iesrioarba.es|
 |[Biología y Geología](/departamento/biologia-geologia)      |[Rubén Peña](/departamento/biologia-geologia/rpena)            |rpena@iesrioarba.es  |
 |[Informática](/departamento/informatica)                    |[Ramón Sancho](/departamento/informatica/rsancho)           |rsancho@iesrioarba.es|
-|[](/departamento/)                                          |[Sergio Callejas](/departamento/scallejas) |scallejas@iesrioarba.es    |
+|[Educación Físca](/departamento/educacion-fisica)     |[Sergio Callejas](/departamento/educacion-fisica/scallejas) |scallejas@iesrioarba.es    |
 |[Economia](/departamento/economia)                          |[Silvia García](/departamento/economia/sgarcia)   |sgarcia@iesrioarba.es  |
 |[ORIENTACIÓN](/orientacion)                                 |[Sonia González](/orientacion/sgonzalez)  |sgonzalez@iesrioarba.es |
 |[Lengua Cast. y Lit.](/departamento/lengua-literatura)     |[Sofía Lora](/departamento/lengua-literatura/slora)      |slora@iesrioarba.es    |
