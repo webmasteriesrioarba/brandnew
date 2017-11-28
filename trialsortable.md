@@ -4,6 +4,12 @@
 <script src="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css"></script>
 <script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
 
+
+<script text="javascript">
+$(document).ready(function(){
+    $('#myTable').DataTable();
+});
+</script>
 # Header1
 
 |     col1       | col2|
