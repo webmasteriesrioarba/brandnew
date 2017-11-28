@@ -1,6 +1,8 @@
 <!-- TITLE: Trialsortable -->
 <!-- SUBTITLE: A quick summary of Trialsortable -->
 
+<script src="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css"></script>
+<script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
 
 # Header1
 
