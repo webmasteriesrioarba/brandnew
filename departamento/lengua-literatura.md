@@ -1,4 +1,1 @@
-<!-- TITLE: Lengua Literatura -->
-<!-- SUBTITLE: A quick summary of Lengua Literatura -->
-
-# Header
+<!-- TITLE: Lengua Española y Literatura -->
