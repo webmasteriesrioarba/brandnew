@@ -1,7 +1,6 @@
 <!-- TITLE: Descargas -->
 <!-- SUBTITLE: Documentos, modelos y materiales generales -->
-
-
+![Logo](/uploads/logo.png "Logo"){.pagelogo}
 |Área|enlace|
 |-|-|
 |[Secretaría](/secretaria)|enlace|
