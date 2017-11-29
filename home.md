@@ -1,7 +1,7 @@
 <!-- TITLE: Rio Arba -->
 <!-- subtitle: Instituto de Enseñanza Secundaria y Formación profesional -->
 
-![wiki.js](/uploads/d-8-curve.jpg "Logo"){.pagelogo}
+![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <script text="javascript">
 	setInterval(function(){
 		$(".blinker").fadeOut(1500).fadeIn(300)
