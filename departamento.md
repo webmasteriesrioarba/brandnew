@@ -1,5 +1,6 @@
 <!-- TITLE: Departamentos -->
 <!-- SUBTITLE: La Didáctica y los profesores se agrupan en Departamentos -->
+![Logo](/uploads/logo.png "Logo"){.pagelogo}
 |departamento                                               ||jefatura							 | |
 |----------------------------------------------------------|--:|:---------------------|------------------------:|
 |**[Biología y Geología](/departamento/biologia-geologia)** |departamentobiogeo@iesrioarba.es|Rubén Peña	           |rpena@iesrioarba.es  |
