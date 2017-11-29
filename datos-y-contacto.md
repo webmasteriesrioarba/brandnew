@@ -1,7 +1,6 @@
 <!-- TITLE: Llegar al centro; contactar-->
-
+![Logo](/uploads/logo.png "Logo"){.pagelogo}
 Instituto de Enseñanza Secundaria Río Arba
-
 <iframe
   width="300"
   height="225"
