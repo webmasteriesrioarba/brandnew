@@ -1,6 +1,5 @@
 <!-- TITLE: Rio Arba -->
 <!-- subtitle: Instituto de Enseñanza Secundaria y Formación profesional -->
-
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 <script text="javascript">
 	setInterval(function(){
