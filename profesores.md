@@ -1,6 +1,6 @@
 <!-- TITLE: Profesores-->
 <!-- SUBTITLE: Claustro docente del IES Rio Arba -->
-
+![Logo](/uploads/logo.png "Logo"){.pagelogo}
 |dpto de adscripción                  |profesor                          |contacto                 |
 |:------------------------------------|:---------------------|------------------------:|
 |[Matemáticas](/departamento/matematicas)                    |[Ángela Bernal](/departamento/matematicas/abernal)       |abernal@iesrioarba.es  |
