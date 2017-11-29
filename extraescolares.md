@@ -1,6 +1,6 @@
 <!-- TITLE: Extraescolares -->
 <!-- subTITLE: Este Departamento programa actividades complementarias -->
-
+![Logo](/uploads/logo.png "Logo"){.pagelogo}
 | profesor y contacto                                                             ||
 |:-------------------------------------------------------------------------:|:-:|
 |[Eva Arce](/departamento/lengua-literatura/earce)                  |earce@iesrioarba.es        |
