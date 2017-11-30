@@ -14,8 +14,8 @@
 |:-------------|
 |[Centro y contacto](/datos-y-contacto)|
 |[Secretaría](/secretaria)|
-|[<label class=blinker style="color: red; font-size:20px">NOTICIAS</label>](/noticias)|
-|[<label class=blinker style="color: green; font-size:20px">AGENDA</label>](/agenda)|
+|[<label class=blinker style="color: red; font-size:20px">noticias</label>](/noticias)|
+|[<label class=blinker style="color: green; font-size:20px">agenda</label>](/agenda)|
 |[Dirección](/director)|
 |[Jefatura de Estudios](/jefatura)|
 |[Departamentos](/departamento)|
