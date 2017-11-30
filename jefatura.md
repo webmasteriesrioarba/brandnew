@@ -2,4 +2,4 @@
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}	
 |jefes de estudio |contacto                |
 |:--------------------------------------|------------------------:|
-|	MªCarmen Hernández	|chernandez@iesrioarba.es	|
+|	[Mª Carmen Hernández](/departamento/lengua-literatura/chernandez)	|chernandez@iesrioarba.es	|
