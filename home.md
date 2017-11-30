@@ -10,6 +10,7 @@
 <h2>h2</h2>
 <h3>h3</h3>
 
+<div style="color: red; font-size:20px">
 ||
 |:-------------|
 |[Centro y contacto](/datos-y-contacto)|
@@ -24,3 +25,5 @@
 |[Profesores](/profesores)|
 |[Extraescolares](/extraescolares)|
 |[Descargas](/descargas)
+
+</div >
