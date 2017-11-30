@@ -7,12 +7,9 @@
 	}, 2000);
 </script> 
 
-<h2>h2</h2>
-<h3>h3</h3>
-
 ||
 |:-------------|
-|[Centro y contacto](/datos-y-contacto)|
+|[Centro / Contacto](/datos-y-contacto)|
 |[Secretaría](/secretaria)|
 |[<label class=blinker style="color: red">NOTICIAS</label>](/noticias)|
 |[<label class=blinker style="color: green">AGENDA</label>](/agenda)|
