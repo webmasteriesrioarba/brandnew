@@ -6,12 +6,15 @@
 		$(".blinker").fadeOut(1500).fadeIn(300)
 	}, 2000);
 </script> 
+
+<h2>h2</h2>
 <h3>h3</h3>
+
 ||
 |:-------------|
 |[Centro y contacto](/datos-y-contacto)|
 |[Secretaría](/secretaria)|
-|[<label class=blinker style="color: #8e0736">NOTICIAS</label>](/noticias)|
+|[<label class=blinker style="color: #8e0736, size:20">NOTICIAS</label>](/noticias)|
 |[<label class=blinker style="color: green">AGENDA</label>](/agenda)|
 |[Dirección](/director)|
 |[Jefatura de Estudios](/jefatura)|
