@@ -3,6 +3,6 @@
 
 | Director | contacto                |
 |:--------------------------------------|------------------------:|
-| [Fco. Zaldivar](/departamento/matematicas/pzaldivar)	|pzaldivar@iesrioarba.es	|
+| [Francisco Zaldivar](/departamento/matematicas/pzaldivar)	|pzaldivar@iesrioarba.es	|
 # Bienvenida
 Bla bla bla
