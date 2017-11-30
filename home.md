@@ -19,8 +19,8 @@
 |[Dirección](/director)|
 |[Jefatura de Estudios](/jefatura)|
 |[Departamentos](/departamento)|
-|[<label style="color: brown">Área Padres</label>](/padres); [<label style="color:brown">AMPA</label>](/ampa)|
-|[<label style="color: #b5650a">Área Padres</label>](/padres); [<label style="color: #b5650a">AMPA</label>](/ampa)|
+|[<label style="color: brown">Área de Padres</label>](/padres) / [<label style="color:brown">AMPA</label>](/ampa)|
+|[<label style="color: #b5650a">Área de Padres</label>](/padres) / [<label style="color: #b5650a">AMPA</label>](/ampa)|
 |[Área Alumnos](/alumnos)|
 |[Profesores](/profesores)|
 |[Extraescolares](/extraescolares)|
