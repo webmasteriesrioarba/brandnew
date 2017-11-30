@@ -1,5 +1,5 @@
 <!-- TITLE: NOTICIAS -->
-<!-- SUBTITLE: Cosas que han sucedido -->
+<!-- SUBTITLE: Cosas que han sucedido (novedades de interés) -->
 ![Logo](/uploads/logo.png "Logo"){.pagelogo}
 Hemos montado un invernadero. Mira que majo. 
 ![Invernadero](/uploads/invernadero.jpeg "Invernadero")
