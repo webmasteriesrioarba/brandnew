@@ -17,8 +17,7 @@
 |[Jefatura de Estudios](/jefatura)|
 |[Departamentos](/departamento)|
 |[<label style="color: brown">Área de Padres</label>](/padres) / [<label style="color:brown">AMPA</label>](/ampa)|
-|[<label style="color: #b5650a">Área de Padres</label>](/padres) / [<label style="color: #b5650a">AMPA</label>](/ampa)|
-|[Área Alumnos](/alumnos)|
+|[Área de Alumnos](/alumnos)|
 |[Profesores](/profesores)|
 |[Extraescolares](/extraescolares)|
 |[Descargas](/descargas)
